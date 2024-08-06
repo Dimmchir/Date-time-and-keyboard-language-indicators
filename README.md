@@ -2,7 +2,7 @@
 
 The application will be useful for those who want to see information about the current language layout of the keyboard or about the Date / Time anywhere on the desktop and of any size.<br>
 Works in Windows and MacOS.<br>
-![dtl_win](https://github.com/user-attachments/assets/751b80f5-fec4-4aba-a185-4c66dee84865)
+![collage](https://github.com/user-attachments/assets/9d5373aa-508a-4b49-8bd1-79ecf85e83b4)
 
 The indicators can work together or one by one. To turn off any indicator, select "Delete indicator" in the context menu. In this case, the indicator does not load and does not use the resources of the operating system. The deleted indicator can be returned at any time by selecting "Add indicator" in the context menu of the running indicator.<br>
 ---<br>
